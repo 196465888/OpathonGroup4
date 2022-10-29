@@ -27,4 +27,4 @@ License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF 
 either express or implied. See the License for the specific language governing permissions 
 and limitations under the License.
 ```
-Detail: https://github.com/OpathonGame2022/OpathonGroup4/license.md
+Detail: https://github.com/196465888/OpathonGroup4/edit/main/license.md
